@@ -1,0 +1,5 @@
+---
+nginx_container_name: my_nginx
+nginx_image: nginx
+nginx_ports:
+  - "3000:80"

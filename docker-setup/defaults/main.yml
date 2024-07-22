@@ -1,0 +1,4 @@
+---
+# Default values for the role
+docker_repo_url: https://download.docker.com/linux/ubuntu
+docker_repo_name: docker-ce
